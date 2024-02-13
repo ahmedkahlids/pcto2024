@@ -5,10 +5,8 @@ https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 
 Clik on this link : "https://github.com/coreybutler/nvm-windows#readme"
 
-
 Click on dwonload
 ![image](https://github.com/ahmedkahlids/pcto2024/assets/159768993/cacb9006-3242-4e66-9a1e-ed8e310e34b4)
-
 
 Install nvm-setup.exe ![image](https://github.com/ahmedkahlids/pcto2024/assets/159768993/72729bb4-658c-48d3-8f6a-4f29e095fd3b)
 
