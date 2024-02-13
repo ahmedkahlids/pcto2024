@@ -22,7 +22,7 @@ And visualize the cuurent version with: `nvm current`
 
 ![image](https://github.com/ahmedkahlids/pcto2024/assets/159768993/bfe5a947-1f87-46f5-8f91-c05bdfd165b0)
 
-Serch modifica le variabili di ambiente relative al sistema on windows, then varibili d'ambiente then variabili di sistema , create a new var and add it on path with %
+Serch modifica le variabili di ambiente relative al sistema on windows, then varibili d'ambiente then variabili di sistema , create a new var and add it on path with %.
 
 
 
