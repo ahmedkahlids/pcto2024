@@ -43,7 +43,7 @@ dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il c
 
 ![image](images\image2.png)
 
-
+![image](images\prova.png)
 
 
 
