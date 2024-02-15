@@ -40,9 +40,9 @@ Serch modifica le variabili di ambiente relative al sistema on windows, then var
 ![image](images/image3.png)
 
 
-Clik "[here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)"
+Clik "[here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)".
 
-dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il comando [`Set-ExecutionPolicy`](https://learn.microsoft.com/it-it/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4y) 
+Dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il comando [`Set-ExecutionPolicy`](https://learn.microsoft.com/it-it/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4y).
 
 ![image](images/image2.PNG)
 ---
