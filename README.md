@@ -45,7 +45,7 @@ Clik "[here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)"
 dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il comando [`Set-ExecutionPolicy`](https://learn.microsoft.com/it-it/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4y) 
 
 ![image](images/image2.PNG)
-
+---
 ## Progetto TypeScript JS
 
 ![image](images/image4.PNG)
