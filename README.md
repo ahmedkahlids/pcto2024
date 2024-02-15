@@ -1,4 +1,4 @@
-# pcto2024
+# PCTO 2024
 ## Instlalazione nvm
 ![image](images/image5.png)
 
