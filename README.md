@@ -1,5 +1,5 @@
 # pcto2024
-## instlalazione nvm
+## Instlalazione nvm
 
 https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 
@@ -27,6 +27,26 @@ Serch modifica le variabili di ambiente relative al sistema on windows, then var
 ---
 
 
-Procedimento per clonare una repository 
-![image](C:\Users\Ahmed\Desktop\pcto2024\images\image1.png)
+## Procedimento per clonare una repository 
+
+![image](images\image1.png)
+
+---
+
+## Gestore di pacchetti da npm a yarn
+### Installone di yarn
+
+
+Clik "[here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)"
+
+dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il comando [`Set-ExecutionPolicy`](https://learn.microsoft.com/it-it/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4y) 
+
+![image](images\image2.png)
+
+
+
+
+
+
+
 
