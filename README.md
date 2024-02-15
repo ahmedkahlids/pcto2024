@@ -1,5 +1,6 @@
 # pcto2024
 ## Instlalazione nvm
+![image](images/image5.png)
 
 https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 
@@ -36,12 +37,20 @@ Serch modifica le variabili di ambiente relative al sistema on windows, then var
 ## Gestore di pacchetti da npm a yarn
 ### Installone di yarn
 
+![image](images/image3.png)
+
 
 Clik "[here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)"
 
 dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il comando [`Set-ExecutionPolicy`](https://learn.microsoft.com/it-it/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4y) 
 
 ![image](images/image2.PNG)
+
+## Progetto TypeScript JS
+
+![image](images/image4.PNG)
+
+E' stato iniziato questo progetto dove si sono creati dei file, cambaito alcune configurazioni tramite anche l'utilizzo di comandi e tutti i passaggi e modifiche possono essere lette all'interno del file [Change log](https://github.com/ahmedkahlids/typescriptJS/blob/master/CHANGE-LOG.md) e del file [Read me](https://github.com/ahmedkahlids/typescriptJS/blob/master/README.md).
 
 
 
