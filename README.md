@@ -55,6 +55,7 @@ E' stato iniziato questo progetto dove si sono creati dei file, cambaito alcune 
 Sono state scritte delle funzioni tra cui il [main](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/error.ts) con poi il then e la gestione dell'errore tramite appunto una [funzione](https://github.com/ahmedkahlids/typescriptJS/blob/master/main.ts) specifica.
 
 Tutte le funzioni vengono opportunamte documentate.
+
 ![image](images/image6.PNG)
 
 Dopo sono state implementate due funzioni [getData()](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/data.ts) e [iterateData()](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/data.ts).
@@ -64,7 +65,7 @@ La seconda invce oltre a a ciò che fa la prima funzione divide in singoli eleme
 
 ![image](images/image7.PNG)
 
-I dati sono stati raccolti e iterati con la creazione di un [tipo](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/types.ts) e un [interfaccia](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/types.ts) 
+I dati sono stati raccolti e iterati con la creazione di un [tipo](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/types.ts) e un [interfaccia](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/types.ts).
 
 ![images](images/image8.PNG)
 ---
