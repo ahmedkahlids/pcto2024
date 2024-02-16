@@ -52,6 +52,22 @@ Dopo l'instllazione se da problemi nell'utilizzo comandi da terminale usare il c
 
 E' stato iniziato questo progetto dove si sono creati dei file, cambaito alcune configurazioni tramite anche l'utilizzo di comandi e tutti i passaggi e modifiche possono essere lette all'interno del file [Change log](https://github.com/ahmedkahlids/typescriptJS/blob/master/CHANGE-LOG.md) e del file [Read me](https://github.com/ahmedkahlids/typescriptJS/blob/master/README.md).
 
+Sono state scritte delle funzioni tra cui il [main](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/error.ts) con poi il then e la gestione dell'errore tramite appunto una [funzione](https://github.com/ahmedkahlids/typescriptJS/blob/master/main.ts) specifica.
+
+Tutte le funzioni vengono opportunamte documentate.
+![image](images/image6.PNG)
+
+Dopo sono state implementate due funzioni [getData()](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/data.ts) e [iterateData()](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/data.ts).
+
+La prima funzione si occupa di prendere dei dati ramite la funzione fetch di una richiesta http.
+La seconda invce oltre a a ciò che fa la prima funzione divide in singoli elementi i dati raccolti.
+
+![image](images/image7.PNG)
+
+I dati sono stati raccolti e iterati con la creazione di un [tipo](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/types.ts) e un [interfaccia](https://github.com/ahmedkahlids/typescriptJS/blob/master/src/types.ts) 
+
+![images](images/image8.PNG)
+---
 
 
 
