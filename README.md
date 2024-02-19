@@ -70,7 +70,10 @@ I dati sono stati raccolti e iterati con la creazione di un [tipo](https://githu
 ![images](images/image8.PNG)
 ---
 
+## Next JS
 
+E' stato svolto il tutorial di Next JS.
+Per vedere il tutorial cliccare [qua](https://nextjs.org/learn/basics/create-nextjs-app).
 
 
 
