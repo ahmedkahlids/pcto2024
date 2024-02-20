@@ -77,7 +77,12 @@ I dati sono stati raccolti e iterati con la creazione di un [tipo](https://githu
 E' stato svolto il tutorial di Next JS.
 Per vedere il tutorial cliccare [qua](https://nextjs.org/learn/basics/create-nextjs-app).
 
+---
 
+## Rete aziendale 
+Si è fatto lo schema della rete aziendale.
+Per vedere il progetto inegrale cliccare [qua](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ)
+[View on Eraser![](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ/preview?elements=nSSaPuqz6RDDpPOaTQSv0w&type=embed)](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ?elements=nSSaPuqz6RDDpPOaTQSv0w) 
 
 
 
