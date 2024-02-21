@@ -82,7 +82,7 @@ Per vedere il tutorial cliccare [qua](https://nextjs.org/learn/basics/create-nex
 ## Rete aziendale 
 Si è fatto lo schema della rete aziendale.
 Per vedere il progetto inegrale cliccare [qua](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ)
-[View on Eraser![](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ/preview?elements=nSSaPuqz6RDDpPOaTQSv0w&type=embed)](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ?elements=nSSaPuqz6RDDpPOaTQSv0w) 
+![image](images/schemaRete.png)
 
 
 
