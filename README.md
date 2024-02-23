@@ -84,5 +84,5 @@ Si è fatto lo schema della rete aziendale.
 Per vedere il progetto inegrale cliccare [qua](https://app.eraser.io/workspace/UpKSiMLhuJj4l1ZVkEFJ)
 ![image](images/schemaRete.png)
 
-
-
+---
+E' stato riscritto il [progetto](https://github.com/ahmedkahlids/nextjs-blog) del tutorial di [nextJS](https://nextjs.org/learn-pages-router/basics/create-nextjs-app) con versione più recente di next js. Cliccare [qua](https://github.com/ahmedkahlids/second-project-next) per vedere il progetto.
